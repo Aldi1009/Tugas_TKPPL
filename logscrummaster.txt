@@ -8,5 +8,5 @@ Tanggal 29/11/19 Scrummaster : Aldi
 	2. Menjelaskan fitur-fitur yang ditawarkan.
 	3. Menjelaskan Spesifikasi Teknologi yang digunakan pada product tersebut
 	4. Analisis kelebihan dan kekurangan product Koogeek Smart Light Strip tersebut.
-	5. Analisis Keunggulan kompetitif dibandingkan product smart light lainnya
+	5. Analisis Keunggulan kompetitif dibandingkan product smart light lainnya.
 
