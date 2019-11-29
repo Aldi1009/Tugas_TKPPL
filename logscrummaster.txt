@@ -1,2 +1,9 @@
 Tanggal 28/11/19 Scrummaster : Aldi
--
+- Pembuatan Repository baru di GITHUB 
+
+Tanggal 29/11/19 Scrummaster : Aldi
+
+-Pembagian masing-masing tugas anggota kelompok
+	1. Deskripsi Product Koogeek Smart Light Strip dan Kegunaan/ Fungsi Product Koogeek Smart Light Strip tersebut
+
+
