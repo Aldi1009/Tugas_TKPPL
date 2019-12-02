@@ -10,3 +10,8 @@ Tanggal 29/11/19 Scrummaster : Aldi
 	4. Analisis kelebihan dan kekurangan product Koogeek Smart Light Strip tersebut.
 	5. Analisis Keunggulan kompetitif dibandingkan product smart light lainnya.
 
+
+Tanggal 02/12/19 Scrummaster : Ira Juliana Tambunan
+- Mengerjakan hasil dari pembagian tugas
+- Memasukan hasil dari pembagian tugas ke dalam HTML
+
