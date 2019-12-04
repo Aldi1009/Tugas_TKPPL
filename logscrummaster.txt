@@ -18,3 +18,5 @@ Tanggal 02/12/19 Scrummaster : Ira Juliana Tambunan
 Tanggal 03/12/2019 Scrummaster : Ira Juliana Tambunan
 - Menambahkan desain CSS di HTML
 
+Tanggal 04/12/2019 Scrummaster : Nur Asri
+- Mengedit CSS di HTML
