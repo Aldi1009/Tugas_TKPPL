@@ -154,8 +154,8 @@ Eka Ramadhan 		:
 -Hari ini ngerjain apa  
 
 Aldi 			:Perubahan isi dari logScrummaster 
-Ira Julianan Tambunan	:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10
-Nur Asri		:Perubahan isi dari logScrummaster
+Ira Julianan Tambunan	:Perubahan isi dari logScrummaster
+Nur Asri		:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10 & Pengeditan isi teks pada HTML di baris 95.
 Ahmad Fachrizal Pratama	:Penambahan CSS
 Eka Ramadhan 		:
 
