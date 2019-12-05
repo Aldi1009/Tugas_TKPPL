@@ -147,7 +147,7 @@ Tanggal 05/12/19 Scrummaster : Nur Asri
 Aldi 			: Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
 Ira Julianan Tambunan	: Mengedit CSS di HTML pada slide 4
 Nur Asri		: Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
-Ahmad Fachrizal Pratama	:
+Ahmad Fachrizal Pratama	: Menambahkan CSS
 Eka Ramadhan 		:
 
 
@@ -156,7 +156,7 @@ Eka Ramadhan 		:
 Aldi 			:Perubahan isi dari logScrummaster 
 Ira Julianan Tambunan	:Perubahan isi dari logScrummaster , Merubah isi CSS di HTML pada slide 5 
 Nur Asri		:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10 & Pengeditan isi teks pada HTML di baris 95.
-Ahmad Fachrizal Pratama	:Penambahan CSS
+Ahmad Fachrizal Pratama	:Mencoba menambahkan template
 Eka Ramadhan 		:
 
 
@@ -164,7 +164,7 @@ Eka Ramadhan 		:
 Aldi 			:-
 Ira Julianan Tambunan	:-
 Nur Asri		:-
-Ahmad Fachrizal Pratama	:-
+Ahmad Fachrizal Pratama	: error ketika menginstal template
 Eka Ramadhan 		:-
 
 
