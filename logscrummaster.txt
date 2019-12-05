@@ -109,7 +109,63 @@ Eka Ramadhan 		:-
 
 
 
+Tanggal 04/12/19 Scrummaster : Nur Asri
 
+
+- Semalam Ngerjain Apa 
+
+Aldi 			:Menambahkan CSS di html pada slide 1 & Menambahkan CSS di html pada slide 2 & Menambahkan CSS di html pada slide 3
+Ira Julianan Tambunan	:Menambahkan desain CSS di HTML & Menambahkan CSS di html pada slide 4 & Menambahkan CSS di html pada slide 5
+Nur Asri		:Menambahkan CSS di html pada slide 7 & Menambahkan CSS di html pada slide 8
+Ahmad Fachrizal Pratama	:Menambahkan CSS di html pada slide 6 
+Eka Ramadhan 		:Menambahkan slide ke- 9 beserta CSS dengan judul "Keunggulan Kompetitif Koggek Smart Light" 
+
+
+-Hari ini ngerjain apa  
+
+Aldi 			: Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
+Ira Julianan Tambunan	:
+Nur Asri		:Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
+Ahmad Fachrizal Pratama	:
+Eka Ramadhan 		:
+
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+
+
+Tanggal 05/12/19 Scrummaster : Nur Asri
+
+
+- Semalam Ngerjain Apa 
+
+Aldi 			:Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
+Ira Julianan Tambunan	:
+Nur Asri		:Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
+Ahmad Fachrizal Pratama	:
+Eka Ramadhan 		:
+
+
+-Hari ini ngerjain apa  
+
+Aldi 			:Perubahan isi dari logScrummaster 
+Ira Julianan Tambunan	:Perubahan isi dari logScrummaster
+Nur Asri		:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10 & Pengeditan isi teks pada HTML di baris 95.
+Ahmad Fachrizal Pratama	:Penambahan CSS
+Eka Ramadhan 		:
+
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
 
 
 
