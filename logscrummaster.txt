@@ -124,15 +124,15 @@ Eka Ramadhan 		:Menambahkan slide ke- 9 beserta CSS dengan judul "Keunggulan Kom
 -Hari ini ngerjain apa  
 
 Aldi 			: Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
-Ira Julianan Tambunan	:
-Nur Asri		:Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
+Ira Julianan Tambunan	: Mengedit CSS di HTML pada slide 4
+Nur Asri		: Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
 Ahmad Fachrizal Pratama	:
 Eka Ramadhan 		:
 
 
 - Terus Masalah nya apa 
 Aldi 			:-
-Ira Julianan Tambunan	:-
+Ira Julianan Tambunan	: terjadi percabangan 
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
 Eka Ramadhan 		:-
@@ -144,9 +144,9 @@ Tanggal 05/12/19 Scrummaster : Nur Asri
 
 - Semalam Ngerjain Apa 
 
-Aldi 			:Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
-Ira Julianan Tambunan	:
-Nur Asri		:Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
+Aldi 			: Pengeditan css di html pada slide 2 dan 3 & Merubah warna background
+Ira Julianan Tambunan	: Mengedit CSS di HTML pada slide 4
+Nur Asri		: Mengedit CSS di HTML pada Slide 8 & Mengedit CSS di HTML pada Slide 7 
 Ahmad Fachrizal Pratama	:
 Eka Ramadhan 		:
 
@@ -154,7 +154,7 @@ Eka Ramadhan 		:
 -Hari ini ngerjain apa  
 
 Aldi 			:Perubahan isi dari logScrummaster 
-Ira Julianan Tambunan	:Perubahan isi dari logScrummaster
+Ira Julianan Tambunan	:Perubahan isi dari logScrummaster , Merubah isi CSS di HTML pada slide 5 
 Nur Asri		:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10 & Pengeditan isi teks pada HTML di baris 95.
 Ahmad Fachrizal Pratama	:Penambahan CSS
 Eka Ramadhan 		:
