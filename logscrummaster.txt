@@ -1,22 +1,65 @@
 Tanggal 28/11/19 Scrummaster : Aldi
-- Pembuatan Repository baru di GITHUB 
+
+- Semalam Ngerjain Apa 
+
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+- Hari ini ngerjain apa
+
+Aldi 			:Pembuatan File Log Scrummaster dan Pembagian Tugas
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+
 
 Tanggal 29/11/19 Scrummaster : Aldi
 
--Pembagian masing-masing tugas anggota kelompok
-	1. Deskripsi Product Koogeek Smart Light Strip dan Kegunaan/ Fungsi Product Koogeek Smart Light Strip tersebut.
-	2. Menjelaskan fitur-fitur yang ditawarkan.
-	3. Menjelaskan Spesifikasi Teknologi yang digunakan pada product tersebut
-	4. Analisis kelebihan dan kekurangan product Koogeek Smart Light Strip tersebut.
-	5. Analisis Keunggulan kompetitif dibandingkan product smart light lainnya.
+- Semalam Ngerjain Apa 
+
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+- Hari ini ngerjain apa
+
+Aldi 			:-
+Ira Julianan Tambunan	:Edit Text
+Nur Asri		:Edit Slide 2
+Ahmad Fachrizal Pratama	:Edit Slide 1
+Eka Ramadhan 		:Penambahan pembagian tugas kelompok
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:gulp serve tidak dapat di jalankan
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
 
 
-Tanggal 02/12/19 Scrummaster : Ira Juliana Tambunan
-- Mengerjakan hasil dari pembagian tugas
-- Memasukan hasil dari pembagian tugas ke dalam HTML
 
-Tanggal 03/12/2019 Scrummaster : Ira Juliana Tambunan
-- Menambahkan desain CSS di HTML
 
-Tanggal 04/12/2019 Scrummaster : Nur Asri
-- Mengedit CSS di HTML
+
+
+
+
+
+
+
+
+
+
