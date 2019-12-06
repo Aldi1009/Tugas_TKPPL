@@ -156,7 +156,7 @@ Eka Ramadhan 		:
 Aldi 			:Perubahan isi dari logScrummaster 
 Ira Julianan Tambunan	:Perubahan isi dari logScrummaster , Merubah isi CSS di HTML pada slide 5 
 Nur Asri		:Perubahan isi dari logScrummaster, Pengeditan CSS pada HTML di baris 10 & Pengeditan isi teks pada HTML di baris 95.
-Ahmad Fachrizal Pratama	:Mencoba menambahkan template
+Ahmad Fachrizal Pratama	:Mencoba menambahkan template,menambahkan style css
 Eka Ramadhan 		:
 
 
@@ -168,6 +168,29 @@ Ahmad Fachrizal Pratama	: error ketika menginstal template
 Eka Ramadhan 		:-
 
 
+Tanggal 06/12/19 Scrummaster : Ahmad Fachrizal
 
 
+- Semalam Ngerjain Apa 
 
+Aldi 			: -
+Ira Julianan Tambunan	: -
+Nur Asri		: -
+Ahmad Fachrizal Pratama	: -
+Eka Ramadhan 		: -
+
+-Hari ini ngerjain apa  
+
+Aldi 			: -
+Ira Julianan Tambunan	: -
+Nur Asri		: -
+Ahmad Fachrizal Pratama	: -
+Eka Ramadhan 		: -
+
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
