@@ -173,7 +173,7 @@ Tanggal 06/12/19 Scrummaster : Ahmad Fachrizal
 
 - Semalam Ngerjain Apa 
 
-Aldi 			: -
+Aldi 			: Perubahan isi dari logScrummaster
 Ira Julianan Tambunan	: -
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
@@ -181,7 +181,7 @@ Eka Ramadhan 		: -
 
 -Hari ini ngerjain apa  
 
-Aldi 			: -
+Aldi 			: Menambahkan desain CSS di HTML dan Merubah background images di HTML
 Ira Julianan Tambunan	: -
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
