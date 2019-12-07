@@ -181,7 +181,7 @@ Eka Ramadhan 		: -
 
 -Hari ini ngerjain apa  
 
-Aldi 			: Menambahkan desain CSS di HTML dan Merubah background images di HTML
+Aldi 			: Membantu Menambahkan desain CSS di HTML di slide 6 dan Merubah background images di HTML
 Ira Julianan Tambunan	: -
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
