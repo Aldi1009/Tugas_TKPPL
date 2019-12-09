@@ -209,7 +209,7 @@ Eka Ramadhan 		: -
 -Hari ini ngerjain apa  
 
 Aldi 			: Memperbaikin slide ke -6
-Ira Julianan Tambunan	: Menambahkan fitur Koogeek Smart Light ke slide 5 , Memperbaiki font pada slide 5 , Mengedit slide ke 4
+Ira Julianan Tambunan	: Menambahkan fitur Koogeek Smart Light ke slide 5 , Memperbaiki font pada slide 5 , Mengedit slide ke 4 , Menambahkan deskripsi fitur pada silde ke-5
 Nur Asri		: Pengeditan isi teks pada HTML di baris 118
 Ahmad Fachrizal Pratama	: -
 Eka Ramadhan 		:Menambahkan Video Review Koogeek Smart Light ke slide-10
