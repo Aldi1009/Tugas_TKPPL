@@ -174,7 +174,7 @@ Tanggal 06/12/19 Scrummaster : Ahmad Fachrizal
 - Semalam Ngerjain Apa 
 
 Aldi 			: Perubahan isi dari logScrummaster
-Ira Julianan Tambunan	: -
+Ira Julianan Tambunan	: Perubahan isi dari logScrummaster , Merubah isi CSS di HTML pada slide 5 
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: perubahan log scrummaster,memperbaiki tampilan spesifikasi
 Eka Ramadhan 		: -
@@ -201,7 +201,7 @@ Tanggal 09/12/19 Scrummaster : Ahmad Fachrizal
 - Semalam Ngerjain Apa 
 
 Aldi 			: Membantu Menambahkan desain CSS di HTML di slide 6 dan Merubah background images di HTML
-Ira Julianan Tambunan	: -
+Ira Julianan Tambunan	: - 
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
 Eka Ramadhan 		: -
@@ -209,7 +209,7 @@ Eka Ramadhan 		: -
 -Hari ini ngerjain apa  
 
 Aldi 			: Memperbaikin slide ke -6
-Ira Julianan Tambunan	: -
+Ira Julianan Tambunan	: Menambahkan fitur Koogeek Smart Light ke slide 5
 Nur Asri		: Pengeditan isi teks pada HTML di baris 118
 Ahmad Fachrizal Pratama	: -
 Eka Ramadhan 		:Menambahkan Video Review Koogeek Smart Light ke slide-10
