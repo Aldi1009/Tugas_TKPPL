@@ -210,7 +210,7 @@ Eka Ramadhan 		: -
 
 Aldi 			: Memperbaikin slide ke -6
 Ira Julianan Tambunan	: -
-Nur Asri		: -
+Nur Asri		: Pengeditan isi teks pada HTML di baris 118
 Ahmad Fachrizal Pratama	: -
 Eka Ramadhan 		:Menambahkan Video Review Koogeek Smart Light ke slide-10
 
