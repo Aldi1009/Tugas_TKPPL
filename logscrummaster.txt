@@ -29,7 +29,7 @@ Tanggal 29/11/19 Scrummaster : Aldi
 
 - Semalam Ngerjain Apa 
 
-Aldi 			:-
+Aldi 			:Pembuatan File Log Scrummaster dan Pembagian Tugas
 Ira Julianan Tambunan	:-
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
@@ -200,7 +200,7 @@ Tanggal 09/12/19 Scrummaster : Ahmad Fachrizal
 
 - Semalam Ngerjain Apa 
 
-Aldi 			: -
+Aldi 			: Membantu Menambahkan desain CSS di HTML di slide 6 dan Merubah background images di HTML
 Ira Julianan Tambunan	: -
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
@@ -208,7 +208,7 @@ Eka Ramadhan 		: -
 
 -Hari ini ngerjain apa  
 
-Aldi 			: -
+Aldi 			: Memperbaikin slide ke -6
 Ira Julianan Tambunan	: -
 Nur Asri		: -
 Ahmad Fachrizal Pratama	: -
@@ -216,7 +216,7 @@ Eka Ramadhan 		: -
 
 
 - Terus Masalah nya apa 
-Aldi 			:-
+Aldi 			:Terjadinya masalah pada slide ke -6
 Ira Julianan Tambunan	:-
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
