@@ -227,7 +227,7 @@ Tanggal 10/12/19 Scrummaster : Eka Ramadhan
 
 - Semalam Ngerjain Apa 
 
-Aldi 			:-
+Aldi 			:Memperbaikin slide ke -6
 Ira Julianan Tambunan	:Menambahkan fitur Koogeek Smart Light ke slide 5 , Memperbaiki font pada slide 5 , Mengedit slide ke 4 , Menambahkan deskripsi fitur pada silde ke-5
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
@@ -235,8 +235,15 @@ Eka Ramadhan 		:Menambahkan Video Review Koogeek Smart Light ke slide-10
 
 - Hari ini ngerjain apa
 
-Aldi 			:-	
+Aldi 			:Merapikan desan css yang tidak dibutuhkan & Penambahan border CSS di setiap slide	
 Ira Julianan Tambunan	:Mengganti fitur Koogeek Smart Light pada slide ke 5 , Edit silde ke 5 , Menghapus desktipsi pada fitur Koogeek Smart Light, Pengeditan isi teks pada slide 4
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
+Eka Ramadhan 		:-
+
+- Terus Masalah nya apa 
+Aldi 			:-
+Ira Julianan Tambunan	:-
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
 Eka Ramadhan 		:-
