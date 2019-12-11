@@ -237,7 +237,7 @@ Eka Ramadhan 		:Menambahkan Video Review Koogeek Smart Light ke slide-10
 
 Aldi 			:Merapikan desan css yang tidak dibutuhkan & Penambahan border CSS di setiap slide	
 Ira Julianan Tambunan	:Mengganti fitur Koogeek Smart Light pada slide ke 5 , Edit silde ke 5 , Menghapus desktipsi pada fitur Koogeek Smart Light, Pengeditan isi teks pada slide 4
-Nur Asri			:-
+Nur Asri		:-
 Ahmad Fachrizal Pratama	:Menambahkan deskripsi produk
 Eka Ramadhan 		:-
 
@@ -255,16 +255,16 @@ Tanggal 11/12/19 Scrummaster : Eka Ramadhan
 
 Aldi 			:Merapikan desan css yang tidak dibutuhkan & Penambahan border CSS di setiap slide	
 Ira Julianan Tambunan	:Mengganti fitur Koogeek Smart Light pada slide ke 5 , Edit silde ke 5 , Menghapus desktipsi pada fitur Koogeek Smart Light, Pengeditan isi teks pada slide 4
-Nur Asri			:-
+Nur Asri		:-
 Ahmad Fachrizal Pratama	:Menambahkan deskripsi produk
-Eka Ramadhan 		:
+Eka Ramadhan 		:-
 
 - Hari ini ngerjain apa
 
 Aldi 			:
-Ira Julianan Tambunan	:
-Nur Asri			:-
-Ahmad Fachrizal Pratama	:
+Ira Julianan Tambunan	:Merapikan slide fitur Koogeek Smart Light
+Nur Asri		:-
+Ahmad Fachrizal Pratama	:-
 Eka Ramadhan 		:-
 
 - Terus Masalah nya apa 
