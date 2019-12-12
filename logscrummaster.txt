@@ -261,7 +261,7 @@ Eka Ramadhan 		:-
 
 - Hari ini ngerjain apa
 
-Aldi 			:-
+Aldi 			:Merapikan slide persentasi & Menambahkan 1 slide di akhir
 Ira Julianan Tambunan	:Merapikan slide fitur Koogeek Smart Light , Merubah font fitur , Menambahkan CSS di html pada fitur koogeek smart light
 Nur Asri		:-
 Ahmad Fachrizal Pratama	:-
